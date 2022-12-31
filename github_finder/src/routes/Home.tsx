@@ -1,5 +1,8 @@
-import React, { useState } from "react";
+import { useState } from "react";
+
 import Search from "../components/Search";
+import { User } from "../components/User";
+
 import { UserProps } from "../types/user";
 
 const Home = () => {
@@ -10,11 +13,22 @@ const Home = () => {
 
     const data = await res.json();
 
-    console.log('%cHome.tsx line:13 data', 'color: #26bfa5;', data);
+    const { avatar_url, login, location, followers, following } = data;
+
+    const userData: UserProps = {
+      avatar_url,
+      login,
+      location,
+      followers,
+      following,
+    };
+    setUser(userData);
   };
   return (
     <div>
-      <Search  loadUser={loadUser}/>
+      <Search loadUser={loadUser} />
+      {user && <User {...user} />}
+
     </div>
   );
 };
