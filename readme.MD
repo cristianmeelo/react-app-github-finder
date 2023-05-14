@@ -1,10 +1,10 @@
-![GitHub Finder](thumbnail.png)
+![GitHub Finder](thumbnail.png#vitrinedev)
 
-# PokeNext
+# GitHub Finder
 
 The main App functionalitys is to search for [GitHub](https://github.com/) users and bring the data via API response.
 
-<img src="screencapture.png" alt="Image App" width="50%">
+<img src="screencapture.png" alt="Image App" >
 
 ## 🔨 Project features
 
