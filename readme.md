@@ -18,6 +18,11 @@
 As principais funcionalidades do aplicativo são procurar usuários do [GitHub](https://github.com/) e trazer os dados por meio da resposta da API.
 
 <img src="screencapture.png" alt="Image App" >
+<div align="center">
+<a href="https://git-hub-finder-fdws.vercel.app/">
+  <img src="https://img.shields.io/badge/-confira%20aqui-lightgrey" alt="Image App" >
+</a>
+</div>
 
 ## 🔨 Recursos do projeto
 
