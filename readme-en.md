@@ -27,7 +27,7 @@ GitHub is a source code hosting and management platform that allows developers t
 
 The [Tutorial of this application you can find here](https://www.youtube.com/watch?v=3sQITRihW_A).
 
-## ✔️ Techniques and technologies used
+## ⚙️ Techniques and technologies used
 
 Check out this list of everything we will use in this app:
 
