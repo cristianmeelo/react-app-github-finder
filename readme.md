@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail.png#vitrinedev)
 
 # GitHub Finder
 
