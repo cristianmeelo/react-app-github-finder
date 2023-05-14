@@ -1,20 +1,33 @@
-![GitHub Finder](thumbnail.png#vitrinedev)
+<table align="right">
+  <tr>
+    <td>
+      <a href="readme-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="readme.md">🇧🇷 Português</a>
+    </td>
+  </tr>
+</table>
+
+![GitHub Finder](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail.png?raw=true#vitrinedev)
 
 # GitHub Finder
 
-The main App functionalitys is to search for [GitHub](https://github.com/) users and bring the data via API response.
+As principais funcionalidades do aplicativo são procurar usuários do [GitHub](https://github.com/) e trazer os dados por meio da resposta da API.
 
 <img src="screencapture.png" alt="Image App" >
 
-## 🔨 Project features
+## 🔨 Recursos do projeto
 
-On one page, you can search for profiles hosted on the github platform, bringing details of followers and the number of people that the profile follows.
+Em uma página, é possível buscar perfis hospedados na plataforma github, trazendo detalhes de seguidores e a quantidade de pessoas que o perfil segue.
 
-GitHub is a source code hosting and management platform that allows developers to collaborate on software projects. Founded in 2008, GitHub has quickly become one of the leading open source repositories on the internet.
+O GitHub é uma plataforma de gerenciamento e hospedagem de código-fonte que permite aos desenvolvedores colaborar em projetos de software. Fundado em 2008, o GitHub rapidamente se tornou um dos principais repositórios de código aberto na Internet.
 
-The [Tutorial of this application you can find here](https://www.youtube.com/watch?v=3sQITRihW_A).
+O [Tutorial deste aplicativo você encontra aqui](https://www.youtube.com/watch?v=3sQITRihW_A).
 
-## ✔️ Techniques and technologies used
+## ⚙️ Técnicas e tecnologias usadas
 
 Check out this list of everything we will use in this app:
 
@@ -27,12 +40,12 @@ Check out this list of everything we will use in this app:
 - `Vercel Deployment`
 - `GitHub`
 
-## 🛠️ Open and run the project
+## 🛠️ Abra e execute o projeto
 
-To open and run the project, run `npm i` to install the dependencies and `npm run dev` to start the project.
+Para abrir e executar o projeto, execute `npm i` para instalar as dependências e `npm run dev` para iniciar o projeto.
 
-Then go to <a href="http://localhost:3000/">http://localhost:3000/</a> in your browser.
+Em seguida, vá para <a href="http://localhost:3000/">http://localhost:3000/</a> em seu navegador.
 
-## 📚 More tutorial information
+## 📚 Mais informações do tutorial
 
-PokeNext is an application for github profiles consultation, developed from the tutorial [Matheus Battisti](https://www.youtube.com/@MatheusBattisti). The main idea of ​​this implementation tutorial is to learn and develop the concepts of typescript, a programming language that is being demanded by the market, and honestly, I feel more comfortable using it than not using it, but it takes a while to understand the depth of its usability. React's routing system is usually used with router router, there are some particularities between its versions, and learning new ways of architecting a project greatly strengthens our baggage.
+O PokeNext é um aplicativo para consulta de perfis do github, desenvolvido a partir do tutorial [Matheus Battisti](https://www.youtube.com/@MatheusBattisti). A ideia principal desse tutorial de implementação é aprender e desenvolver os conceitos de typescript, uma linguagem de programação que está sendo exigida pelo mercado, e sinceramente, me sinto mais confortável em usar do que não usar, mas demora um pouco para entender a profundidade de sua usabilidade. O sistema de roteamento do React geralmente é usado com react-router,mas existem algumas particularidades entre suas versões, e aprender novas formas de arquitetar um projeto fortalece muito nossa bagagem.
