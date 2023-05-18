@@ -56,7 +56,7 @@ Github finder is an application for github profiles consultation, developed from
 
 | :placard: Vitrine.Dev |                                                                                                             |
 | --------------------- | ----------------------------------------------------------------------------------------------------------- |
-| :sparkles: Name       | **Type Fast**                                                                                               |
+| :sparkles: Name       | **GitHub Finder**                                                                                           |
 | :label: Technologies  | React, Vite, TypeScript, CSS Module, React Icons,React Router,Vercel Deployment,GitHub ( used Technologies) |
 | :rocket: URL          | https://git-hub-finder-fdws.vercel.app/                                                                     |
 | :fire: Challenge      | https://www.youtube.com/watch?v=3sQITRihW_Av=3sQITRihW_Av=3sQITRihW_A                                       |
