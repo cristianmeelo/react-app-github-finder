@@ -11,7 +11,7 @@
   </tr>
 </table>
 
-![](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail-en.png?raw=true#vitrinedev)
+![](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail-en.png?raw=true)
 
 <img src="mockup.gif" alt="Image App" >
 <div align="center">
@@ -62,3 +62,5 @@ Github finder is an application for github profiles consultation, developed from
 | :label: Technologies  | React, Vite, TypeScript, CSS Module, React Icons,React Router,Vercel Deployment,GitHub ( used Technologies) |
 | :rocket: URL          | https://react-app-github-finder-cristianmeelo.vercel.app/                                                   |
 | :fire: Challenge      | https://www.youtube.com/watch?v=3sQITRihW_Av=3sQITRihW_Av=3sQITRihW_A                                       |
+
+![](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail-mockup.png?raw=true#vitrinedev)
