@@ -13,13 +13,6 @@
 
 ![](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail-en.png?raw=true#vitrinedev)
 
-<video controls loop>
-  <source src="mockup.mp4" type="video/mp4">
-    Your browser does not support video playback.
-</video>
-
-<br/>
-
 # GitHub Finder
 
 The main App functionalitys is to search for [GitHub](https://github.com/) users and bring the data via API response.
