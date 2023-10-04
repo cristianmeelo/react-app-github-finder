@@ -15,7 +15,7 @@
 
 <img src="mockup.gif" alt="Image App" >
 <div align="center">
-<a href="https://git-hub-finder-fdws.vercel.app/">
+<a href="https://react-app-github-finder-cristianmeelo.vercel.app/">
   <img src="https://img.shields.io/badge/-CHECK%20HERE-red"
   alt="Image App" >
 </a>
