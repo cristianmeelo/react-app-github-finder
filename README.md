@@ -53,7 +53,7 @@ Em seguida, vá para <a href="http://localhost:3000/">http://localhost:3000/</a>
 
 ## 📚 Mais informações do tutorial
 
-O PokeNext é um aplicativo para consulta de perfis do github, desenvolvido a partir do tutorial [Matheus Battisti](https://www.youtube.com/@MatheusBattisti). A ideia principal desse tutorial de implementação é aprender e desenvolver os conceitos de typescript, uma linguagem de programação que está sendo exigida pelo mercado, e sinceramente, me sinto mais confortável em usar do que não usar, mas demora um pouco para entender a profundidade de sua usabilidade. O sistema de roteamento do React geralmente é usado com react-router,mas existem algumas particularidades entre suas versões, e aprender novas formas de arquitetar um projeto fortalece muito nossa bagagem.
+O GithubFinder é um aplicativo para consulta de perfis do github, desenvolvido a partir do tutorial [Matheus Battisti](https://www.youtube.com/@MatheusBattisti). A ideia principal desse tutorial de implementação é aprender e desenvolver os conceitos de typescript, uma linguagem de programação que está sendo exigida pelo mercado, e sinceramente, me sinto mais confortável em usar do que não usar, mas demora um pouco para entender a profundidade de sua usabilidade. O sistema de roteamento do React geralmente é usado com react-router,mas existem algumas particularidades entre suas versões, e aprender novas formas de arquitetar um projeto fortalece muito nossa bagagem.
 
 | :placard: Vitrine.Dev |                                                                                                                 |
 | --------------------- | --------------------------------------------------------------------------------------------------------------- |
