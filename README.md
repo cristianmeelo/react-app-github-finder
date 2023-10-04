@@ -13,16 +13,16 @@
 
 ![](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail.png?raw=true#vitrinedev)
 
+<video controls loop>
+  <source src="mockup.mp4" type="video/mp4">
+  Seu navegador não suporta a reprodução de vídeo.
+</video>
+
+<br/>
+
 # GitHub Finder
 
 As principais funcionalidades do aplicativo são procurar usuários do [GitHub](https://github.com/) e trazer os dados por meio da resposta da API.
-
-<img src="screencapture.png" alt="Image App" >
-<div align="center">
-<a href="https://git-hub-finder-fdws.vercel.app/">
-  <img src="https://img.shields.io/badge/-confira%20aqui-lightgrey" alt="Image App" >
-</a>
-</div>
 
 ## 🔨 Recursos do projeto
 
@@ -59,5 +59,3 @@ O PokeNext é um aplicativo para consulta de perfis do github, desenvolvido a pa
 | :label: Tecnologias   | React, Vite, TypeScript, CSS Module, React Icons,React Router,Vercel Deployment,GitHub (tecnologias utilizadas) |
 | :rocket: URL          | https://git-hub-finder-fdws.vercel.app/                                                                         |
 | :fire: Desafio        | https://www.youtube.com/watch?v=3sQITRihW_Av=3sQITRihW_A                                                        |
-
-teste
