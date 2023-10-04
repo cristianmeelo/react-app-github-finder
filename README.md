@@ -16,7 +16,7 @@
 <img src="mockup.gif" alt="Image App" >
 <div align="center">
 <a href="https://git-hub-finder-fdws.vercel.app/">
-  <img src="https://img.shields.io/badge/-confira%20aqui-lightgrey" alt="Image App" >
+  <img src="https://img.shields.io/badge/-CONFIRA%20AQUI-red" alt="Image App" >
 </a>
 </div>
 
@@ -61,5 +61,3 @@ O PokeNext é um aplicativo para consulta de perfis do github, desenvolvido a pa
 | :label: Tecnologias   | React, Vite, TypeScript, CSS Module, React Icons,React Router,Vercel Deployment,GitHub (tecnologias utilizadas) |
 | :rocket: URL          | https://git-hub-finder-fdws.vercel.app/                                                                         |
 | :fire: Desafio        | https://www.youtube.com/watch?v=3sQITRihW_Av=3sQITRihW_A                                                        |
-
-teste
