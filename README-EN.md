@@ -60,5 +60,5 @@ Github finder is an application for github profiles consultation, developed from
 | --------------------- | ----------------------------------------------------------------------------------------------------------- |
 | :sparkles: Name       | **GitHub Finder**                                                                                           |
 | :label: Technologies  | React, Vite, TypeScript, CSS Module, React Icons,React Router,Vercel Deployment,GitHub ( used Technologies) |
-| :rocket: URL          | https://git-hub-finder-fdws.vercel.app/                                                                     |
+| :rocket: URL          | https://react-app-github-finder-cristianmeelo.vercel.app/                                                   |
 | :fire: Challenge      | https://www.youtube.com/watch?v=3sQITRihW_Av=3sQITRihW_Av=3sQITRihW_A                                       |
