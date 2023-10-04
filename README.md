@@ -13,16 +13,18 @@
 
 ![](https://github.com/cristianmeelo/react-app-github-finder/blob/main/thumbnail.png?raw=true#vitrinedev)
 
-# GitHub Finder
-
-As principais funcionalidades do aplicativo são procurar usuários do [GitHub](https://github.com/) e trazer os dados por meio da resposta da API.
-
-<img src="screencapture.png" alt="Image App" >
+<img src="mockup.gif" alt="Image App" >
 <div align="center">
 <a href="https://git-hub-finder-fdws.vercel.app/">
   <img src="https://img.shields.io/badge/-confira%20aqui-lightgrey" alt="Image App" >
 </a>
 </div>
+
+<br/>
+
+# GitHub Finder
+
+As principais funcionalidades do aplicativo são procurar usuários do [GitHub](https://github.com/) e trazer os dados por meio da resposta da API.
 
 ## 🔨 Recursos do projeto
 
